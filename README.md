@@ -2,4 +2,4 @@
 
   Question | Solution
 ---------- | -------------
-Program to find sum of 'n' numbers using python | [GitHub](https://github.com/akhilbommu/Python-Programs/blob/master/sumOfNNumbers.py) sumOfNNumbers.py
+Program to find sum of 'n' numbers using python | [sumOfNNumbers.py](https://github.com/akhilbommu/Python-Programs/blob/master/sumOfNNumbers.py) 
