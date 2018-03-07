@@ -14,3 +14,4 @@ Two dimensional matrix in python | [matrix 2D.py](https://github.com/akhilbommu/
 Program to swap two numbers | [swap.py](https://github.com/akhilbommu/Python-Programs/blob/master/swap.py)
 Program to find average of list | [Average of list.py](https://github.com/akhilbommu/Python-Programs/blob/master/Average%20of%20list.py)
 Program to find sum of diagonal elements of matrix | [sumOfDiagonalElementsOfMatrix.py](https://github.com/akhilbommu/Python-Programs/blob/master/sumOfDiagonalElementsOfMatrix.py)
+Program for sorting list by Bubble sort method |[Bubble sort.py](https://github.com/akhilbommu/Python-Programs/blob/master/swap/Bubble%20sort.py)
